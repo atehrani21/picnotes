@@ -1,0 +1,12 @@
+/__pycache__/
+/config/
+/img/
+/jsons/
+/public/
+server/__pycache__/
+server/Procfile
+server/Procfile.dev
+dump.rdb
+error.log
+textindex.py
+textindex_test.py
